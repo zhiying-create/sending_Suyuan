@@ -1,4 +1,4 @@
-# sending_Suyuan
+sending_Suyuan
 
-# This projecrt is for suyuan sending.
-# Dev. in 2021 May.
+This projecrt is for suyuan sending.
+Dev. in 2021 May.
